@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+logs
+training_checkpoints
+output
+generate_image
+*.pyc
+*.jpg
