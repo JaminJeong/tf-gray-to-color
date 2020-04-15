@@ -1,6 +1,6 @@
 # gray2color
 
-##pix2pix
+## pix2pix
 
 ## Data Augmentation
 ```bash
@@ -19,9 +19,15 @@ epoch_0.jpg
 epoch_100.jpg
 
 ```
+
 ![human_gray_origin_generation](./images/result.jpg)
 
 ## test
+```bash
+$ bash inference.sh
+$ ls generate_image
+
+```
 
 ![flower_gray_origin_generation](./images/epoch_148.jpg)
 
