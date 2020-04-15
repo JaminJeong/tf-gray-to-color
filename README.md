@@ -1,4 +1,4 @@
-# gray2color
+# gray-to-color
 
 ## pix2pix
 
