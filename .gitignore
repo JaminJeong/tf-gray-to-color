@@ -5,3 +5,4 @@ output
 output.jpg
 generate_image
 *.pyc
+.idea
