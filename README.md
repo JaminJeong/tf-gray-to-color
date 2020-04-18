@@ -11,6 +11,11 @@ $ bash data_augmentation.sh
 $ bash pix2pix-gray2color.sh
 ```
 
+## Tensorboard
+```bash
+$ tensorboard --logdir ./log
+```
+
 ## Result
 ```bash
 $ ls output
